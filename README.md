@@ -2,9 +2,5 @@
 
 test file
 
-<pre>
-
-<code>
-
-code
-```this is code```
+1.수박
+2.메론
