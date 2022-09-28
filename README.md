@@ -6,4 +6,5 @@ test file
 
 <code>
 
-    code
+code
+```this is code```
